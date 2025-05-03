@@ -1,0 +1,10 @@
+para entrar como empleado:
+
+rfsilva.43@turnify.com
+password: 5555
+
+
+como administrador:
+
+e.vejar@turnify.com
+password: 1234
